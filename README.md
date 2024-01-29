@@ -38,18 +38,18 @@
 
 Скрины работы приложения:
 
-![1]()
+![1](https://github.com/PavelLogeiko/Spring_HW06/blob/main/images/1.png)
 
-![2]()
+![2](https://github.com/PavelLogeiko/Spring_HW06/blob/main/images/2.png)
 
-![3]()
+![3](https://github.com/PavelLogeiko/Spring_HW06/blob/main/images/3.png)
 
-![4]()
+![4](https://github.com/PavelLogeiko/Spring_HW06/blob/main/images/4.png)
 
-![5]()
+![5](https://github.com/PavelLogeiko/Spring_HW06/blob/main/images/5.png)
 
-![6]()
+![6](https://github.com/PavelLogeiko/Spring_HW06/blob/main/images/6.png)
 
-![7]()
+![7](https://github.com/PavelLogeiko/Spring_HW06/blob/main/images/7.png)
 
-![8]()
+![8](https://github.com/PavelLogeiko/Spring_HW06/blob/main/images/8.png)
